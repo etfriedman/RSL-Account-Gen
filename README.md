@@ -11,6 +11,7 @@ A python script that generates accounts for raid shadow legends
 ## Dependencies:
 1. selenium (chrome driver that matches your current chrome version, look below to learn how to install and put the exe in the same folder as the python file)
 2. chromedriver.exe (https://chromedriver.chromium.org/downloads) Make sure the driver matches your chrome version (click the three dots, help, about, and you will find it)
+3. random-username (pip install random-username)
 
 ## Setup/Install:
 1. pip install selenium
